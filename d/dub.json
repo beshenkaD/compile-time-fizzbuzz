@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Beshenka Drakkari"
+	],
+	"copyright": "Copyright © 2022, Beshenka Drakkari",
+	"description": "fizzbuzz with CTFE.",
+	"license": "WTFPL",
+	"name": "fizzbuzz"
+}

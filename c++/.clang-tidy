@@ -1,0 +1,11 @@
+Checks: 'clang-diagnostic-*,
+         clang-analyzer-*,
+         cppcoreguidelines-*,
+         modernize-*,
+         performance-*,
+         
+         -cppcoreguidelines-non-private-member-variables-in-classes,
+         -cppcoreguidelines-avoid-magic-numbers,
+         -cppcoreguidelines-pro-type-union-access,
+         -cppcoreguidelines-narrowing-conversions,
+         -modernize-use-trailing-return-type'
